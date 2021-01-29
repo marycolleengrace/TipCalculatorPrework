@@ -24,7 +24,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] Font size can be changed
-- [ ] Theme can be changed
+- [ ] Color Theme can be changed
+- [ ] Switch between Dark Mode and Light Mode
+- [ ] Remembers the bill amount across app restarts. After an extended period of time, clears the state. This was implemented with the Spotlight app. If ywe return there a minute later, it shows our most recent search and if you return 10 minutes later, it defaults to blank.
+- [ ] Uses locale specific currency and currency thousands separator
+- [ ]the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app.
+
+
 
 ## Video Walkthrough
 
